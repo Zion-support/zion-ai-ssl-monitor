@@ -1,10 +1,16 @@
-# Zion AI SSL Monitor
+# 🌐 Part of the Zion App Network
 
-SSL/TLS certificate monitoring — expiry tracking and renewal automation.
+**Zion AI SSL Monitor** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [ssl-config-auditor](https://github.com/Zion-support/ssl-config-auditor) · [dns-health-checker](https://github.com/Zion-support/dns-health-checker) · [api-health-probe](https://github.com/Zion-support/api-health-probe) · [zion-ai-status-comms](https://github.com/Zion-support/zion-ai-status-comms)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Compliance Checker](https://github.com/Zion-support/zion-ai-compliance-checker)
+- [AI API Health Monitor](https://github.com/Zion-support/ai-api-health-monitor)
+- [Zion Status](https://github.com/Zion-support/zion-status)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
